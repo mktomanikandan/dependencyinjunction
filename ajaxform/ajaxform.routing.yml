@@ -1,0 +1,8 @@
+#User registration form routing URL
+ajaxform.config:
+  path: '/ajaxform'
+  defaults:
+    _title: 'Simple Ajax Form'
+    _form: '\Drupal\ajaxform\Form\ajaxForm'
+  requirements:
+    _permission: 'access content'

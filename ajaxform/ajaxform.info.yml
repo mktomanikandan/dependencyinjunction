@@ -1,0 +1,4 @@
+name: "Ajax form"
+description: "Ajax form for page without loading."
+core: 8.x
+type: module
